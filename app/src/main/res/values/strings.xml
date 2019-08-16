@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Reza Apps</string>
+    <string name="nama">Muhammad Reza Muzaky</string>
+    <string name="nim">10116288</string>
+    <string name="kelas">IF-7 / AKB-7</string>
+    <string name="kutipan">A Simple Man</string>
+    <string name="contactfragment">Contact</string>
+    <string name="notlp">081214594590</string>
+    <string name="email">m.rezamuzaky@gmail.com</string>
+    <string name="instagram">\@rezamuzaky22</string>
+    <string name="twitter">\@rezamuzaky22</string>
+    <string name="github">github.com/rezamuzaky22</string>
+
+</resources>
